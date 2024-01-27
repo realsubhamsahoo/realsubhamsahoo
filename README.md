@@ -1,13 +1,13 @@
-# Hello Devs, I'm Subham Sahoo! <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/IMAGES/wave-emoji-gif.gif" alt="hand wave" width="30px">
+# <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/wave-emoji-gif.gif" alt="hand wave" width="30px"> Chad Devs, I'm Subham Sahoo! 
 
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Buddies!;I'm+a+Full+Stack+Web+Developer!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+SEO+Specialist!"; /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Explorers!;I'm+a+Full+Stack+Web+Developer!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+SEO+Specialist!"; /></a>
 </p>
 
-## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/IMAGES/about-me-gif.gif" width=5%></picture> About Me
+## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/about-me-gif.gif" width=5%></picture> About Me
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/IMAGES/coding-laptop-gif.webp" width=250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/coding-laptop-gif.webp" width=250px></picture>
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect!
 
 <div align="center" width=100%>
   
@@ -31,7 +31,7 @@
 </div>
 <br>
 
-## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/IMAGES/code-tag-gif.webp" width = 32px>  Languages & Tools
+## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/code-tag-gif.webp" width = 32px>  Languages & Tools
 
 <div align="center" width=100%>
   
@@ -39,7 +39,7 @@
 </div>
 <br>
 
-## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/IMAGES/github-stats-gif.gif" width = 35px>  My Github Stats (Expand) 
+## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/github-stats-gif.gif" width = 35px>  My Github Stats (Expand) 
 
 <details> 
   <summary><b>📊 GitHub Profile Stats</b></summary>
