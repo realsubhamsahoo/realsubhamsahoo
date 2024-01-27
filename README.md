@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/wave-emoji-gif.gif" alt="hand wave" width="30px"> Chad Devs, I'm Subham Sahoo! 
+# <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/wave-emoji-gif.gif" alt="hand wave" width="30px">Hello Chad Devs, I'm Subham Sahoo! 
 
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Explorers!;I'm+a+Full+Stack+Web+Developer!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+SEO+Specialist!"; /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Explorers!;I'm+a+Full+Stack+Web+Developer!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+SEO+Specialist!;" /></a>
 </p>
 
 ## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/about-me-gif.gif" width=5%></picture> About Me
@@ -64,7 +64,7 @@
 
 <br/>
 
-## 🌐 My Websites
+## <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/coder-gif.gif" width=5%> My Websites
 - [My Portfolio Website](https://subhamsahoo.in/)
 - [Compress Tool](https://compresstool.com/)
 - [Social Cry](https://socialcry.com/)
