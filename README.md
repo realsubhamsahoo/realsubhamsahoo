@@ -77,8 +77,5 @@
 ### ✍️ Dev Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Dev Meme of the Day!
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=realsubhamsahoo&icon=0&color=1)](https://visitcount.itsvg.in)
