@@ -67,9 +67,9 @@
 
 ## <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/coder-gif.gif" width=5%> My Websites
 - [My Portfolio Website](https://subhamsahoo.in/)
-- [Compress Tool](https://compresstool.com/)
+- [Imaze Tool](https://imazetool.com/)
 - [Social Cry](https://socialcry.com/)
-- [Wikistry](https://wikistry.com/)
+- [Wikitry](https://wikitry.com/)
 - [WEBDSA](https://webdsa.com/)
 
 <br>
