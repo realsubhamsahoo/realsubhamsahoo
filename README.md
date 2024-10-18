@@ -12,7 +12,7 @@
 <br>
 
 - 👋 Hey, This is Subham Sahoo `@realsubhamsahoo`
-- 👀 Enthusiast about: `Tech`, `Crypto` & `Web3`.
+- 👀 Enthusiastic about: `Tech`, `Crypto` & `Web3`.
 - 💻 Known Languages: `Javascript`, `Java` & `Python`.
 - 🌱 Known Databases: `MongoDB`, `MySQL`& `PostGreSQL`.
 - 💞️ Future Language Interests: `Solidity` & `GoLang`.
