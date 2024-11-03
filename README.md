@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/wave-emoji-gif.gif" alt="hand wave" width="30px">Namaste Devs, I'm Subham! 
+# <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/wave-emoji-gif.gif" alt="hand wave" width="30px"> Greetings Devs, I'm Subham! 
 
 
 <p>
