@@ -2,7 +2,7 @@
 
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Explorers!;I'm+a+Data+Analyst!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+Expert+in+SEO!;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=22&lines=Welcome+Fellow+GitHub+Explorers!;I'm+a+Data+Analyst!;I'm+a+Crypto+and+Web3+Enthusiast!;I'm+a+Digital+Marketer+and+SEO+Expert!;" /></a>
 </p>
 
 ## <img src = "https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/about-me-gif.gif" width=5%></picture> About Me
