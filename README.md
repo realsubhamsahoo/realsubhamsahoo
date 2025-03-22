@@ -15,7 +15,7 @@
 - 👀 Enthusiastic about: `Tech`, `Crypto` & `Web3`.
 - 💻 Known Languages: `Javascript`, `Java` & `Python`.
 - 🌱 Known Databases: `MongoDB`, `MySQL`& `PostGreSQL`.
-- 💞️ Future Language Interests: `Solidity` & `GoLang`.
+- 💞️ Future Interest: `Solidity`.
 - 📫 How to reach me: mail@subhamsahoo.in
 
 <br>
