@@ -12,7 +12,7 @@
 <br>
 
 - 👋 Hey, This is Subham Sahoo `@realsubhamsahoo`
-- 👀 Enthusiastic about: `Tech`, `Crypto` & `Web3`.
+- 👀 Enthusiastic about: `Machine Learning`, `Cloud Computing` & `Web3`.
 - 💻 Known Languages: `Javascript`, `Java` & `Python`.
 - 🌱 Known Databases: `MongoDB`, `MySQL`& `PostGreSQL`.
 - 💞️ Future Interest: `Solidity`.
@@ -67,7 +67,6 @@
 
 ## <img src="https://raw.githubusercontent.com/realsubhamsahoo/realsubhamsahoo/main/Images/GitHub-Profile/coder-gif.gif" width=5%> My Websites
 - [My Portfolio Website](https://subhamsahoo.in/)
-- [Imaze Tool](https://imazetool.com/)
 - [Social Cry](https://socialcry.com/)
 - [Wikitry](https://wikitry.com/)
 - [WEBDSA](https://webdsa.com/)
