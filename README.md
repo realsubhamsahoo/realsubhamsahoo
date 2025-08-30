@@ -12,10 +12,10 @@
 <br>
 
 - 👋 Hey, This is Subham Sahoo `@realsubhamsahoo`
-- 👀 Enthusiastic about: `Machine Learning`, `Cloud Computing` & `Web3`.
-- 💻 Known Languages: `Javascript`, `Java` & `Python`.
-- 🌱 Known Databases: `MongoDB`, `MySQL`& `PostGreSQL`.
-- 💞️ Future Interest: `Solidity`.
+- 👀 Learning about: `Machine Learning`, `Cloud Computing` & `Web3`.
+- 💻 Known Languages: `Python`, `R` & `Javascript`.
+- 🌱 Known Databases: `MongoDB`, `MySQL`, `PostGreSQL` & `BigQuery`.
+- 💞️ Future Interest: `Solidity`, `Golang`.
 - 📫 How to reach me: mail@subhamsahoo.in
 
 <br>
